@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff5f9330-d44e-44fd-b976-040b2f6f3fdb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YF6kGiOkrtujQvWhthim6scTmu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TaskManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="TaskManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codejava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codejava.TaskManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TaskManagerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff5f9330-d44e-44fd-b976-040b2f6f3fdb" name="Default Changelist" comment="" />
+      <created>1582526136715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582526136715</updated>
+      <workItem from="1582526139477" duration="135000" />
+      <workItem from="1582526289833" duration="203000" />
+      <workItem from="1582526516658" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2633" y="435" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1582526214774">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2633" y="435" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1582526214774" />
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom" timestamp="1582526887580">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582526887580" />
+    <state width="1874" height="277" key="GridCell.Tab.0.center" timestamp="1582526887580">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582526887580" />
+    <state width="1874" height="277" key="GridCell.Tab.0.left" timestamp="1582526887580">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582526887580" />
+    <state width="1874" height="277" key="GridCell.Tab.0.right" timestamp="1582526887580">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582526887580" />
+    <state width="1874" height="277" key="GridCell.Tab.1.bottom" timestamp="1582526887580">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582526887580" />
+    <state width="1874" height="277" key="GridCell.Tab.1.center" timestamp="1582526887580">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582526887580" />
+    <state width="1874" height="277" key="GridCell.Tab.1.left" timestamp="1582526887580">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582526887580" />
+    <state width="1874" height="277" key="GridCell.Tab.1.right" timestamp="1582526887580">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582526887580" />
+    <state x="616" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1582526516712">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="367" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582526516712" />
+  </component>
+</project>
